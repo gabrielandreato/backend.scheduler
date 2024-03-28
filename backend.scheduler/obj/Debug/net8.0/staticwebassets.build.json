@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f+JdhYidXPd4TLyLt4b3oD666Ks1bhkioCfPb+vp0eQ=",
+  "Source": "backend.scheduler",
+  "BasePath": "_content/backend.scheduler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
